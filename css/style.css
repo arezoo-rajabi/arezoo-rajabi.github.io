@@ -99,7 +99,36 @@ body{
     line-height:1.75;
     color:#374151;
 }
+.blog-post{
+
+	background:white;
 	
+	border-radius:18px;
+	
+	padding:50px;
+	
+	box-shadow:0 10px 30px rgba(0,0,0,.08);
+
+}
+section{
+
+	padding:70px 0;
+	
+	}
+	
+	.post-title{
+	
+	margin-top:60px;
+	
+	margin-bottom:20px;
+	
+	}
+	
+	.container{
+	
+	max-width:1200px;
+
+}
 html {
     position: relative;
     min-height: 100%;
