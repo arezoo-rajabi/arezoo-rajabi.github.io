@@ -49,10 +49,55 @@
 
 /* Global Style */
 
+h1{
+    font-size:58px;
+    font-weight:800;
+}
 
-body {
-    font-family: "Poppins", sans-serif;
-    background: #fafafa !important;
+.subtitle{
+    font-size:22px;
+    color:#2563eb;
+    font-weight:600;
+}
+
+.subtitle2{
+    color:#6b7280;
+    font-size:18px;
+}
+.my-pic img{
+
+    width:220px;
+
+    border-radius:50%;
+
+    border:5px solid white;
+
+    box-shadow:0 15px 40px rgba(0,0,0,.12);
+}
+.btn{
+
+display:inline-block;
+
+padding:10px 20px;
+
+border-radius:10px;
+
+font-weight:600;
+
+margin-right:10px;
+
+background:#2563eb;
+
+color:white;
+
+transition:.25s;
+
+}
+body{
+    font-family: "Inter", sans-serif;
+    font-size:17px;
+    line-height:1.75;
+    color:#374151;
 }
 	
 html {
